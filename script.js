@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
  'use strict'
-=======
+
 'use strict'
 
 function startGame() {
@@ -72,4 +72,3 @@ function startGame() {
   function moveright() {
     myGamePiece.speedX += 1;
   }
->>>>>>> 3109a97e5d1ae21c2fb426a275b47144dd839cdb
